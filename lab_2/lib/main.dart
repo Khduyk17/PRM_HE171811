@@ -26,4 +26,4 @@ void main() async {
 
 Future<String> fetchData() async {
   return Future.delayed(Duration(seconds: 2), () => "Dữ liệu đã về!");
-}
+}//e
